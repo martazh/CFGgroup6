@@ -1,0 +1,150 @@
+/* git pull --rebase */
+
+/* body {
+    
+} */
+h1 {
+    font-family: montserrat;
+    font-size: 80px;
+}
+h2 {
+    font-family: montserrat;
+    font-size: 40px;
+}
+p {
+    font-family: oswald;
+    font-size: 28px;
+    padding-top: 2%;
+}
+.logo {
+    width: 25%;
+}
+.navbar {
+    background-color: #F9E2C7;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    font-family: oswald, monospace;
+    font-size: 30px;
+    color: #513724
+}
+.nav-link:hover {
+    color: #89E0E0;
+}
+#bake {
+    padding-top: 2%;
+    text-align: center;
+}
+.black-line {
+    width: 25%;
+    margin: auto;
+    color: #000000
+}
+.blue-cupcakes {
+    width: 50%;
+    padding-bottom: 2%;
+    }
+
+.pink-line {
+    border: 2px solid #F29EB0;
+}
+.text {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+.reasons {
+    display: flex;
+}
+.reason {
+    text-align: center;
+}
+.fa-regular {
+    color: #F29EB0;
+    font-size: 70px;
+    padding-left: 10px;
+}
+.images {
+    display: flex;
+}
+.pic {
+    width: 27%;
+    margin: auto;
+    padding-bottom: 2%;
+}
+.user {
+    font-family: montserrat, monospace;
+    font-size: 27px;
+}
+/*try table here instead */
+.testimonials {
+    display: flex;
+}
+.comment  {
+    margin: auto;
+    border: 1px solid #F29EB0;
+    width: 30%;
+    padding: 1%;
+    text-align: center;
+}
+.form-control  {
+    border-color:#F29EB0;
+}
+.btn  {
+    background-color: #F29EB0; 
+}
+.btn:hover {
+    background-color: #89E0E0;
+}
+#footer {
+    background-color: white;
+    font-size: 25px;
+    color: #000000;
+}
+.fa-solid {
+    color: #F29EB0;
+}
+#address {
+    font-family: montserrat, monospace;
+    font-size: 25px;
+    text-align: center;
+}
+
+.recipephoto {
+    height: 500px;
+    width: auto;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.recipephotomousse {
+    height: 500px;
+    width: auto;
+    float: left;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.recipedescription {
+    text-align: center;
+}
+
+/* 
+table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+ }
+
+ td {
+     text-align: center;
+ } */
+ 
